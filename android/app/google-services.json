@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248031020532",
+    "project_id": "zssystem-601be",
+    "storage_bucket": "zssystem-601be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248031020532:android:7cdbfd404745ebe65525a1",
+        "android_client_info": {
+          "package_name": "com.example.zs_satis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248031020532-gqbh15vflc9r667t44uff0bigjfhmia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGdOqy8lgCNeSTbEy8bhgh1aC-LU3HCrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248031020532-gqbh15vflc9r667t44uff0bigjfhmia3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
